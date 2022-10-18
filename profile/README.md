@@ -6,7 +6,7 @@
 
 ### :star2: To download and use the model without any coding interface, access the [desktop app](https://github.com/CameraTrapDetectoR/Desktop_App) 
 
-### :tada: We want your images! Contribute your images to our database so we can keep improving the model. Send us a [message](mailto:cameratrapdetector@gmail.com) for more details.
+### :tada: Contribute your images to our database so we can keep improving the model. Send us a [message](mailto:cameratrapdetector@gmail.com) for more details.
 
 
 
