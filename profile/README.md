@@ -1,10 +1,11 @@
 ## Welcome to the CameraTrapDetectoR Tool :wolf:
 
-### :milky_way: To explore the computer vision code used to train the CameraTrapDetectoR, access the [model training](https://github.com/CameraTrapDetectoR/model_training) repository 
 
 ### :ringed_planet: To download and use the R package, access the [CameraTrapDetectoR](https://github.com/CameraTrapDetectoR/CameraTrapDetectoR) tool  
 
 ### :star2: To download and use the model without any coding interface, access the [desktop app](https://github.com/CameraTrapDetectoR/Desktop_App) 
+
+### :milky_way: To explore the computer vision code used to train the CameraTrapDetectoR, access the [model training](https://github.com/CameraTrapDetectoR/model_training) repository 
 
 ### :tada: Contribute your images to our database so we can keep improving the model. Send us a [message](mailto:cameratrapdetector@gmail.com) for more details.
 
