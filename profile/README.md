@@ -1,5 +1,6 @@
-## Welcome to the CameraTrapDetectoR Tool :wolf:
+## Welcome to CameraTrapDetectoR: wolf:
 
+CameraTrapDetectoR is an essential tool for processing camera trap images. Our deep learning object detection model identifies and counts animals by class, family, or species, provides post-identification processing functions, all on your computer. 
 
 ### :ringed_planet: To download and use the R package, access the [CameraTrapDetectoR](https://github.com/CameraTrapDetectoR/CameraTrapDetectoR) tool  
 
