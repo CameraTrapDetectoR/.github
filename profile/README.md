@@ -13,7 +13,7 @@
 
 :bear: To peruse the Python model pipeline, see the [Model Training](https://github.com/CameraTrapDetectoR/model_training) repository.  
 
-:cat: To peruse the data collection and processing pipeline, see the [Data Wrangling](https://github.com/CameraTrapDetectoR/Wrangle) repository.
+:cat: To peruse the helper and template scripts related to our project, see the [Resources](https://github.com/CameraTrapDetectoR/CameraTrapDetectoR_Resources) repository.
 
 :eagle: To collaborate with us by sharing images or offering feedback, send us a message: cameratrapdetector@gmail.com
 
