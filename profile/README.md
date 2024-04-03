@@ -54,33 +54,45 @@ Track our progress as we work to advance CameraTrapDetector's mission of publish
 <details>
 <summary> <font size="3">  Data curation:  </font> </summary>
  ✔️ Detection-level image features of contrast, complexity, self-similarity, and symmetry to our annotations for better representative sampling<br>
- 🔲 Animal-level orientation annotation for better representative sampling<br>
+ :chart_with_upwards_trend: Animal-level orientation, size, distance annotation for better representative sampling<br>
  :chart_with_upwards_trend: Incorporate new images into training database <br>
+ 🔲 Generate images of rare/invasive species in various settings and orientations using SMOTE techniques<br>
+ :chart_with_upwards_trend: Review existing database to flag poor quality training samples<br>
 </details><br>
 
 <details>
 <summary> <font size="3">  Model Training:  </font> </summary>
-
+✔️ Pretrain Faster-RCNN weights on OOS camera trap images<br> 
+✔️ Pretrain YOLO weights on OOS camera trap images<br>
+:chart_with_upwards_trend: transfer learning with pre-existing camera trap model weights<br>
+:chart_with_upwards_trend: Faster-RCNN model comparison with differing CNN backbones  
+ 🔲 Prediction on video files<br>  
 </details><br>
 
 <details>
 <summary> <font size="3">  R Package Deployment:  </font> </summary>
+✔️ Prediction verification toolkit<br>
+🔲 R Shiny makeover<br>
+🔲 Submit package to CRAN for greater visibility<br>
+</details><br>
+
+<details>
+<summary> <font size="3">  Desktop Deployment:  </font> </summary>
 
 </details><br>
 
 <details>
-<summary> <font size="3"> ▪️ Desktop Deployment:  </font> </summary>
-
-</details><br>
-
-<details>
-<summary> <font size="3"> ▪️ Command Line / HPC Deployment:  </font> </summary>
-
+<summary> <font size="3">  Command Line / HPC Deployment:  </font> </summary>
+✔️ Standardize output, including prediction plots, to R package output  
+🔲 cross-platform generalizability via containerization
+🔲 Integrate parallel processing, multi-GPU deployment 
 </details><br>
 
 <details>
 <summary> <font size="3">  Evaluation / Verification Workflow:  </font> </summary>
-
+✔️ Output compatibility with [Camelot](
+:chart_with_upwards_trend: Model mis-classified images to determine feature association with prediction accuracy<br>
+  
 </details><br>
 
 ---
