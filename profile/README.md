@@ -78,7 +78,7 @@ Track our progress as we work to advance CameraTrapDetector's mission of publish
 
 <details>
 <summary> <font size="3">  Desktop Deployment:  </font> </summary>
-
+🔲 Revamp approach for more nimble app<br>
 </details><br>
 
 <details>
