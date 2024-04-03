@@ -65,7 +65,7 @@ Track our progress as we work to advance CameraTrapDetector's mission of publish
 ✔️ Pretrain Faster-RCNN weights on OOS camera trap images<br> 
 ✔️ Pretrain YOLO weights on OOS camera trap images<br>
 :chart_with_upwards_trend: transfer learning with pre-existing camera trap model weights<br>
-:chart_with_upwards_trend: Faster-RCNN model comparison with differing CNN backbones  
+:chart_with_upwards_trend: Faster-RCNN model comparison with differing CNN backbones<br>  
  🔲 Prediction on video files<br>  
 </details><br>
 
@@ -78,19 +78,19 @@ Track our progress as we work to advance CameraTrapDetector's mission of publish
 
 <details>
 <summary> <font size="3">  Desktop Deployment:  </font> </summary>
-
+🔲 Revamp approach for more nimble app<br>
 </details><br>
 
 <details>
 <summary> <font size="3">  Command Line / HPC Deployment:  </font> </summary>
-✔️ Standardize output, including prediction plots, to R package output  
-🔲 cross-platform generalizability via containerization
-🔲 Integrate parallel processing, multi-GPU deployment 
+✔️ Standardize output, including prediction plots, to R package output<br>  
+🔲 cross-platform generalizability via containerization<br>
+🔲 Integrate parallel processing, multi-GPU deployment<br> 
 </details><br>
 
 <details>
 <summary> <font size="3">  Evaluation / Verification Workflow:  </font> </summary>
-✔️ Output compatibility with [Camelot](
+✔️ Output compatibility with [Camelot](https://camelotproject.org/)<br>
 :chart_with_upwards_trend: Model mis-classified images to determine feature association with prediction accuracy<br>
   
 </details><br>
