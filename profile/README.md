@@ -60,37 +60,27 @@ Track our progress as we work to advance CameraTrapDetector's mission of publish
 
 <details>
 <summary> <font size="3">  Model Training:  </font> </summary>
-- [ ] Animal detection fine-tuning<br>
-- [ ] MegaDetectorV5 integration<br>
-- [ ] MegaDetectorV6 integration<br>
+
 </details><br>
 
 <details>
-<summary> <font size="3"> ▪️ R Package Deployment:  </font> </summary>
-- [ ] Animal detection fine-tuning<br>
-- [ ] MegaDetectorV5 integration<br>
-- [ ] MegaDetectorV6 integration<br>
+<summary> <font size="3">  R Package Deployment:  </font> </summary>
+
 </details><br>
 
 <details>
 <summary> <font size="3"> ▪️ Desktop Deployment:  </font> </summary>
-- [ ] Animal detection fine-tuning<br>
-- [ ] MegaDetectorV5 integration<br>
-- [ ] MegaDetectorV6 integration<br>
+
 </details><br>
 
 <details>
 <summary> <font size="3"> ▪️ Command Line / HPC Deployment:  </font> </summary>
-- [ ] Animal detection fine-tuning<br>
-- [ ] MegaDetectorV5 integration<br>
-- [ ] MegaDetectorV6 integration<br>
+
 </details><br>
 
 <details>
-<summary> <font size="3"> ▪️ Evaluation / Verification Workflow:  </font> </summary>
-- [ ] Animal detection fine-tuning<br>
-- [ ] MegaDetectorV5 integration<br>
-- [ ] MegaDetectorV6 integration<br>
+<summary> <font size="3">  Evaluation / Verification Workflow:  </font> </summary>
+
 </details><br>
 
 ---
