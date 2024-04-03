@@ -23,16 +23,27 @@
 
 CameraTrapDetectoR hosts custom-trained deep object detection models at the taxonomic class, family, and species levels. The latest published version of each model is **Version 2**
 
-Species model performance:  
+<details>
+<summary> <font size="3"> ▪️ Species model performance:  </font> </summary>
+ 
 ![image](https://github.com/CameraTrapDetectoR/.github/assets/54477812/803730a6-8b98-4c47-b3d9-8e6bfb2173ed)
 
-Family model performance:  
+</details><br>
+
+<details>
+<summary> <font size="3"> ▪️ Family model performance:  </font> </summary>
+
 ![image](https://github.com/CameraTrapDetectoR/.github/assets/54477812/cd6a14bb-2b27-453e-b780-86e58ee5da0b)
 
+</details><br>
+
+<details>
+<summary> <font size="3"> ▪️ Class model performance:  </font> </summary>
+  
 Class model performance:
 ![image](https://github.com/CameraTrapDetectoR/.github/assets/54477812/89a18f99-1df8-4520-acf3-546fdd9dfcd7)
 
-
+</details><br>
 
 ---
 ## Citations ##
