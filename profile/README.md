@@ -1,7 +1,7 @@
 ## :wolf: Welcome to the CameraTrapDetector Project :wolf:
 
 
-**The CameraTrapDetector project is a set customized object detection deep learning models that identify, classify, and count animals in camera trap images.** 
+**The CameraTrapDetector project is a set of customized object detection deep learning models that identify, classify, and count animals in camera trap images.** 
 **The model can be run on personal computer as part of an existing workflow, saving time and preserving data privacy.**
 
 Our mission is to provide an accurate, easy-to-use, free computer vision tool to process large camera trap datasets. Users with no coding experience can automate the time-intensive task of classifying images, and optimize their time spent thinking analytically. Our tool enables researchers and land managers to perform analyses and make decisions faster and with more comprehensive information.
