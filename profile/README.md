@@ -14,6 +14,8 @@ Our mission is to provide an accurate, easy-to-use, free computer vision tool to
 
 :rabbit2: To deploy the models on HPC or via command line, see the [Model Training](https://github.com/CameraTrapDetectoR/model_training) repository.  
 
+:tree: See our new package on creating your own randomly-placed camera trap array: [cameratrapgridR](https://github.com/CameraTrapDetectoR/cameratrapgridR.git)
+
 :horse: To peruse the helper and template scripts related to our project, see the [Resources](https://github.com/CameraTrapDetectoR/CameraTrapDetectoR_Resources) repository.
 
 :pig2: To collaborate with us by sharing images or offering feedback, send us a message: cameratrapdetector@gmail.com
