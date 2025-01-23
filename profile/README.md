@@ -8,15 +8,15 @@ Our mission is to provide an accurate, easy-to-use, free computer vision tool to
 
 ---
 
-:pig: To use the packaged model in R, RStudio, or the R Shiny interface, see the [CameraTrapDetectoR](https://github.com/CameraTrapDetectoR/CameraTrapDetectoR) repository.  
+:pig: To use the packaged model in R, RStudio, or the R Shiny interface, see the [CameraTrapDetector](https://github.com/CameraTrapDetector/CameraTrapDetector) repository.  
   
-:cow: To use the interactive app on your desktop without any code interface, see the [Desktop App](https://github.com/CameraTrapDetectoR/DesktopApp) repository. 
+:cow: To use the interactive app on your desktop without any code interface, see the [Desktop App](https://github.com/CameraTrapDetector/DesktopApp) repository. 
 
-:rabbit2: To deploy the models on HPC or via command line, see the [Model Training](https://github.com/CameraTrapDetectoR/model_training) repository.  
+:rabbit2: To deploy the models on HPC or via command line, see the [Model Training](https://github.com/CameraTrapDetector/model_training) repository.  
 
-:evergreen_tree:  See our new package on creating your own randomly-placed camera trap array: [cameratrapgridR](https://github.com/CameraTrapDetectoR/cameratrapgridR.git)
+:evergreen_tree:  See our new package on creating your own randomly-placed camera trap array: [cameratrapgridR](https://github.com/CameraTrapDetector/cameratrapgridR.git)
 
-:horse: To peruse the helper and template scripts related to our project, see the [Resources](https://github.com/CameraTrapDetectoR/CameraTrapDetectoR_Resources) repository.
+:horse: To peruse the helper and template scripts related to our project, see the [Resources](https://github.com/CameraTrapDetector/CameraTrapDetector_Resources) repository.
 
 :pig2: To collaborate with us by sharing images or offering feedback, send us a message: cameratrapdetector@gmail.com
 
@@ -24,7 +24,7 @@ Our mission is to provide an accurate, easy-to-use, free computer vision tool to
 ---
 ## :sheep: Model Versions and Performance :sheep: ##
 
-CameraTrapDetector hosts custom-trained deep object detection models at the taxonomic class, family, and species levels. The latest published version of each model is **Version 2**
+CameraTrapDetector hosts custom-trained deep object detection models at the taxonomic class, family, and species levels. The latest published version of the species model is **Version 3**. The latest version of the general and family models is **Version 2**.  
 
 <details>
 <summary> <font size="3">  Species model performance:  </font> </summary>
